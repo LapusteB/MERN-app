@@ -1,5 +1,5 @@
 import React from 'react';
-import UsersItem from '../UserItem';
+//import UsersItem from '../UserItem';
 import UsersList from '../UsersList';
 
 const Users = () => {
